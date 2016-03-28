@@ -1,0 +1,9 @@
+Hello everyone. I am excited to be working on a weather forecast application with you. For our purposes I have researched several gems that I would like to present to you. The top three gems that jumped out to me were the yahoo weather man gem, weatherzone gem, and weather gem. 
+
+The yahoo weather man gem is a terrific gem that is backed up with good documentation, lots of downloads, and some of the best options on any of the gems. I especially like thier instillation guide which makes it easy to get up and running quickly. The yahoo weather service is accurate with all of the information that we need for our project. Please checkout the documentation at https://github.com/dlt/yahoo_weatherman.
+
+The next gem is the weather zone gem. Again this gem has good documentation with lots of downloads. As you all know high amounts of downloads means that most bugs have been worked out in the gem. This gem is a good option if we do not want to go with yahoo services. This gem runs through the weatherzone webservices. We will still be able to meet our goals using this gem. The documentation can be found here http://www.rubydoc.info/gems/weatherzone/0.8.8/toplevel. 
+
+Finally there is a weather gem. While I was able to get this gem to work, I can not recommend it for our purposes. It also uses the yahoo forecast services, but it has extremely poor documentation. Also this is an early version which means there are likely many issues with the gem. On top of both these drawbacks there are not many downloads, which means it has not been thoroughly tested. The almost non-existent documentation can be found here http://www.rubydoc.info/gems/weather/0.0.1/Weather. 
+
+At this time I would like to move forward with the yahoo weather man gem. It fits our purposes the best. We can keep the weather zone gem on the backburner in case the yahoo web services should go down for any reason. Now lets start working together to get our project running guys!
